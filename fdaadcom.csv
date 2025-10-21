@@ -1,0 +1,38 @@
+Adcom Commitee,Date,Adcom center ,Sponsor,Sponsor ticker,"Voting Outcome (1 - Positive, 0 - Negative)","Rare disease (1-Yes, 0-No) ",Therapeutic area,"First in Class (1-Yes, 0-No) ",Drug name
+Vaccines and Related Biological Products Advisory Commitee ,2024-03-05,CBER ,N/A ,N/A,N/A,0,Infectious Diseases ,0,N/A
+Medical Imaging Drugs Advisory Committee,2024-03-05,CDER ,Lumicell ,N/A ,1,0,Oncology,1,Pegulicianine 
+Oncologic Drugs Advisory Committee ,2024-03-14,CDER,Geron Corporation,GERN,1,1,Oncology ,1,Imetelstat
+Oncologic Drugs Advisory Committee ,2024-03-15,CDER ,Johnson & Johnson,JNJ,1,1,Oncology,0,Carvykti 
+Oncologic Drugs Advisory Committee ,2024-03-15,CDER,Bristol Myers Squibb ,BMY ,1,1,Oncology,1,Abecma 
+Oncologic Drugs Advisory Committee ,2024-04-12,CDER ,University of Miami,N/A ,1,N/A ,Oncology,0,N/A
+Oncologic Drugs Advisory Committee ,2024-04-12,CDER,i2TEAMM,N/A,1,N/A,Oncology ,0,N/A 
+Drug Safety and Risk Management Advisory Committee,2024-04-25,CDER ,N/A,N/A ,N/A ,N/A ,N/A ,N/A ,N/A 
+Blood Products Advisory Committee ,2024-05-09,CBER ,N/A ,N/A,N/A ,N/A ,N/A ,N/A ,N/A 
+Oncologic Drugs Advisory Committee ,2024-05-22,CBER ,N/A ,N/A ,N/A ,N/A ,N/A,N/A,N/A 
+Endocrinologic and Metabolic Drugs Advisory Committee,2024-05-24,CDER ,Novo Nordisk ,NVO,0,0,Endrocrinology,0,Insulin icodec 
+Psychopharmacologic Drugs Advisory Committee,2024-06-04,CDER ,Lykos Therapeutics ,N/A,0,0,Psychiatry,0,Midomafetamine
+Vaccines and Related Biological Products Advisory Commitee ,2024-06-05,CBER ,N/A,N/A ,1,N/A ,Infectious Diseases ,N/A ,N/A 
+Peripheral and Central Nervous System Drugs Advisory Committee ,2024-06-10,CDER ,Eli Lilly and Company ,LLY ,1,0,Neurology ,0,Donanemab 
+Oncologic Drugs Advisory Committee ,2024-07-25,CDER ,AstraZeneca UK Limited,AZN ,1,0,Oncology ,0,Durvalumab 
+Genetic Metabolic Diseases Advisory Committee ,2024-08-02,CDER,Zevra Therapeutics ,ZVRA ,1,1,Neurology ,1,Arimoclomol
+Antimicrobial Drugs Advisory Committee,2024-09-09,CDER ,Iterum Therapeutics US Limited,ITRM ,N/A ,0,Infectious Diseases ,1,sulopenem etzadroxil
+Gastrointestinal Drugs Advisory Committee,2024-09-13,CDER ,"Intercept Pharmaceuticals, Inc",ICPT,0,1,Gastroenterology ,1,Obeticholic Acid
+Vaccines and Related Biological Products Advisory Commitee ,2024-09-20,CBER ,N/A ,N/A ,N/A,N/A ,Infectious Diseases ,N/A ,N/A 
+Oncologic Drugs Advisory Committee ,2024-09-26,CDER ,Bristol Myers Squibb ,BMY ,0,1,Oncology,0,Opdivo 
+Oncologic Drugs Advisory Committee ,2024-09-26,CDER,Merck Sharp & Dohme LLC,MRK,0,1,Oncology,0,Keytruda  
+Oncologic Drugs Advisory Committee ,2024-09-26,CDER,BeOne Medicines AG,ONC ,0,1,Oncology,0,Tevimbra 
+Vaccines and Related Biological Products Advisory Commitee ,2024-10-10,CBER ,N/A ,N/A ,1,N/A,Infectious Diseases ,N/A,N/A 
+Cardiovascular and Renal Drugs Advisory Committee ,2024-10-10,CDER,Stealth Biotherapeutics Inc ,N/A ,1,1,Cardiovasular ,1,Elamipretide hydrochloride
+Pharmacy Compounding Advisory Committee ,2024-10-29,CDER,N/A ,N/A ,0,0,Endrocrinology,0,Ibutamoren mesylate
+Pharmacy Compounding Advisory Committee ,2024-10-29,CDER,N/A ,N/A ,0,0,Psychiatry,0,L-theanine
+Pharmacy Compounding Advisory Committee ,2024-10-29,CDER,N/A ,N/A ,0,0,Endrocrinology,0,Ipamorelin acetate Ipamorelin
+Pharmacy Compounding Advisory Committee ,2024-10-29,CDER,N/A ,N/A ,0,0,Endrocrinology,0,Kisspeptin-10
+Pharmacy Compounding Advisory Committee ,2024-10-29,CDER,N/A ,N/A ,1,0,Obstetrics,0,Hydroxyprogesterone caproate
+Endocrinologic and Metabolic Drugs Advisory Committee,2024-10-31,CDER,"Lexicon Pharmaceuticals, Inc",LXRX ,0,0,Endrocrinology,0,Sotagliflozin
+Drug Safety and Risk Management Advisory Committee ,2024-11-19,CDER,Clozapine Product Manufacturers Group,N/A,0,0,Psychiatry,1,Clozapine 
+"Cellular, Tissue, and Gene Therapies Advisory Committee",2024-11-21,CBER ,AstraZeneca UK Limited ,AZN ,0,0,Hematology ,1,Andexxa 
+Pharmacy Compounding Advisory Committee,2024-12-04,CDER ,N/A ,N/A ,0,N/A,Endrocrinology,N/A,AOD-9604
+Pharmacy Compounding Advisory Committee,2024-12-04,CDER ,N/A ,N/A ,0,N/A ,Immunology ,N/A,Thymosin alpha-1
+Pharmacy Compounding Advisory Committee,2024-12-04,CDER ,N/A ,N/A ,0,N/A,Endrocrinology,N/A,CJC-1295
+Vaccines and Related Biological Products Advisory Committee,2024-12-12,CBER ,Moderna ,MRNA ,0,0,Infectious Diseases ,0,mRNA-1345
+Vaccines and Related Biological Products Advisory Committee,2024-12-12,CBER ,Moderna ,MRNA ,0,0,Infectious Diseases ,0,mRNA-1365 
